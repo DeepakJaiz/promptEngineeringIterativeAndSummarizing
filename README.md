@@ -2,7 +2,7 @@
 
 ## AIM
 Aim: We get knowledge about Iterative and how iterative give a perfect prompt to get desired output from the LLM. <br/>
-In summarizing, how our LLM give desired data from large text by the help of perfect prompt.
+In summarizing, we gain knowledge about how to use summarizing to get relevant data according to our use from large test
 
 ## References
 Iterative https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/3/iterative <br/>
